@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CANAIS | Globo",Globo
+http://joao-1-us.mainbkonline.shop:80/328475738243pw/432758329864/715?checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="" tvg-name="Conferência Mortal" tvg-logo="https://encurtador.com.br/hDQRU" group-title="FILMES",Conferência Mortal
+https://amd01eng.akamaized.net/hls/live/2008102-b/pgm_fazenda15/hdntl=exp=1700590238~acl=%2f*~data=hdntl~hmac=3d810bb81f198f741b75ced13294fb98a4b5f516e6197852867dc41a198044c4/master_480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Conferência Mortal" tvg-logo="https://encurtador.com.br/hDQRU" group-title="FILMES",CF
+https://cdn.discordapp.com/attachments/896631806055550991/1175354705115873290/VID_20231118_053934826.mp4?ex=656aed5e&is=6558785e&hm=481e814f11c7a2f4338bd4937812f23659c5bf6f8db43f7a9977e6dc596da9ca&
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="Religious",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="CANAIS | INFANTIL",CARTOON NETWORK H265 Backup NO_1
+http://joao-1-us.mainbkonline.shop:80/328475738243pw/432758329864/220?checkedby:iptvlister.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | GLOBO",GLOBO TV BRASILIA FHD
+http://joao-1-us.mainbkonline.shop:80/328475738243pw/432758329864/719?checkedby:alliptvlinks.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Undefined",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3OJ3dBiJmSngehvMZZS25O17yHIaiBOJZgcqGVDx7h-rZTvS7LLQXm6XlLppnlw-0JgoznyL=s512-c-k-c0x00ffffff-no-rj-mo" group-title="Esportes",Combate Global Backup NO_1
+http://186.226.215.132:80/carlos123/carlos123/187?checkedby:alliptvlinks.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="General",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CHESPIRITO
+http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD Backup NO_2
+http://joao-1-us.mainbkonline.shop:80/328475738243pw/432758329864/845?checkedby:alliptvlinks.com
